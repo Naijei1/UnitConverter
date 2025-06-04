@@ -1,7 +1,7 @@
 # Unit Converter
 A lightweight, browser-based unit converter built with HTML, CSS, and JavaScript. This tool allows users to seamlessly convert between Metric and Imperial units for length, volume, and mass — while **saving recent entries using `localStorage`** for quick access.
 
-![Screenshot](./images/unit-converter-screenshot.png)  
+![Screenshot](https://github.com/Naijei1/UnitConverter/blob/main/UnitConversionSC.png)  
 
 ## Features:
 
@@ -15,7 +15,7 @@ A lightweight, browser-based unit converter built with HTML, CSS, and JavaScript
 
 ## Live Demo
 
-[Try it here](https://your-username.github.io/unit-converter)  
+[Try it here](https://unit-converter-zeta-inky.vercel.app/)  
 
 ## Built With
 
