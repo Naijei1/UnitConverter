@@ -1,0 +1,168 @@
+body {
+	margin: 0;
+	background-color: #1c1c1c;
+}
+
+#app {
+  text-align: center;
+	margin: 126px auto;
+	width: 100%;
+}
+
+#hero {
+	background-color: #6943ff;
+	margin: 0px auto;
+	width: 550px;
+	height: 219px;
+	color: #ffffff;
+	padding: 33px 0px;
+	border-radius: 10px 10px 0px 0px;
+	position: relative;
+	z-index: 999;
+	box-shadow: #1a113e 0px 0px 10px;
+}
+
+#title {
+	font-size: 28px;
+	margin: 0px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+#INP {
+	background-color: #6943ff;
+	border: 2px #b295ff solid;
+	border-radius: 5px;
+	width: 117px;
+	height: 83px;
+	margin: 30px auto 25px auto;
+	color: #ffffff;
+	text-align: center;
+	font-size: 58px;
+	font-weight: 800;
+	display: block;
+}
+
+#btn {
+	padding: 11px 28px;
+	border-radius: 5px;
+	border: none;
+	color: #3d3d3d;
+	margin: 0px;
+	font-weight: 600;
+	transition-duration: 0.2s;
+}
+
+#btn:hover {
+	scale: 1.05;
+	transition-duration: 0.2s;
+	box-shadow: 0 6px 14px rgba(0, 0, 0, 0.2);
+}
+
+#btn:active {
+	background-color: #d1d5db;
+	scale: 0.95;
+	transition-duration: 0.2s;
+	box-shadow: none;
+}
+
+#conversion-container {
+	background: #1f2937;
+	width: 550px;
+	margin: 0px auto;
+	padding: 36px 0px 12px;
+	box-shadow: #1a113e 0px 0px 10px;
+}
+
+.conv {
+	background-color: #273549;
+	margin: 0px 25px;
+	padding: 31px 0px 19px 0px;
+	margin-bottom: 24px;
+}
+
+.conv-title {
+	margin: 0px;
+	color: #ccc1ff;
+	font-size: 20px;
+	font-weight: 500;
+}
+
+.convo-desc {
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: 100;
+}
+
+#pre-container {
+	background-color: #6943ff;
+	margin: 0px auto;
+	width: 550px;
+	height: 75px;
+	color: #ffffff;
+	padding: 20px 0px 80px;
+	border-radius: 0px 0px 10px 10px;
+	position: relative;
+	z-index: 999;
+	box-shadow: #1a113e 0px 0px 10px;
+}
+
+#pre-title {
+	margin: 0px;
+}
+
+.pre-button {
+	padding: 11px 28px;
+	border-radius: 5px;
+	border: none;
+	color: #3d3d3d;
+	margin: 10px;
+	font-weight: 600;
+	transition-duration: 0.2s;
+	overflow: hidden;
+}
+
+.pre-button:hover {
+	scale: 1.05;
+	transition-duration: 0.2s;
+	box-shadow: 0 6px 14px rgba(0, 0, 0, 0.2);
+}
+
+.pre-button:active {
+	background-color: #d1d5db;
+	scale: 0.95;
+	transition-duration: 0.2s;
+	box-shadow: none;
+}
+
+#clear {
+	padding: 11px 28px;
+	border-radius: 5px;
+	border: black 1px solid;
+	color: #FFFFFF;
+	margin: 10px;
+	font-weight: 600;
+	transition-duration: 0.2s;
+	overflow: hidden;
+  background-color: #e74452;
+  position: relative;
+}
+
+#clear:hover {
+	scale: 1.05;
+	transition-duration: 0.2s;
+	box-shadow: 0 6px 14px rgba(0, 0, 0, 0.2);
+}
+
+#clear:active {
+	background-color: red;
+	scale: 0.95;
+	transition-duration: 0.2s;
+	box-shadow: none;
+}
+
+
