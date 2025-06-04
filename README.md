@@ -1,7 +1,8 @@
 # Unit Converter
 A lightweight, browser-based unit converter built with HTML, CSS, and JavaScript. This tool allows users to seamlessly convert between Metric and Imperial units for length, volume, and mass — while **saving recent entries using `localStorage`** for quick access.
 
-![Screenshot](https://github.com/Naijei1/UnitConverter/blob/main/UnitConversionSC.png)  
+<img src="https://github.com/Naijei1/UnitConverter/blob/main/UnitConversionSC.png" alt="Screenshot" width="500"/>
+
 
 ## Features:
 
